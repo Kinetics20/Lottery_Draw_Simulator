@@ -1,4 +1,8 @@
 # Lottery Draw Simulator
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-2025.1-blue?logo=jetbrains&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04.1_LTS-E95420?logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-2025.1-557C99?logo=kali-linux&logoColor=white)
 
 ## Description  
 This project is a simple Python program that simulates a lottery game. You can choose between two types of lottery draws:  
